@@ -1,0 +1,1 @@
+// toi la 1 nguoi da tinh
